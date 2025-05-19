@@ -1,18 +1,7 @@
 <p align="center">
   <img src="Media/Misc/GitHub_Logo/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png" width="120" alt="GitHub Logo" />
-  <h1 align="center">🏆 Selos GitHub 🏆</h1>
+  <p style="font-size:3rem; font-weight: bold" align="center">🏆 Selos GitHub 🏆</p>
 </p>
-
-## 📑 Sumário
-
-- [🔍 Exibindo Selos](#-exibindo-selos)
-- [🌟 Selos Básicos](#-selos-básicos)
-- [✨ Selos em Destaque](#✨-selos-em-destaque)
-- [🎨 Variações de Tom de Pele](#🎨-variações-de-tom-de-pele)
-- [🚫 Selos Descontinuados](#🚫-selos-descontinuados)
-- [ℹ️ Mais Informações](#ℹ️-mais-informações)
-
----
 
 ## 🔍 Exibindo Selos
 
