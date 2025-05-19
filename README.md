@@ -1,5 +1,3 @@
-<!-- **Readme Épico para suas Conquistas no GitHub!** -->
-
 <p align="center">
   <img src="Media/Misc/GitHub_Logo/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png" width="120" alt="GitHub Logo" />
   <h1 align="center">🏆 Selos GitHub 🏆</h1>
