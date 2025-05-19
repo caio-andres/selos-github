@@ -1,57 +1,83 @@
-# Conquistas do GitHub
+<!-- **Readme Épico para suas Conquistas no GitHub!** -->
 
-![Image](Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png)   
-![Image](Badges/Open-Sourcerer/PNG/OpenSourcerer.png)
+<p align="center">
+  <img src="Media/Misc/GitHub_Logo/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png" width="120" alt="GitHub Logo" />
+  <h1 align="center">🏆 Selos GitHub 🏆</h1>
+</p>
 
-# Exibindo Conquistas
+## 📑 Sumário
 
-#### Exibir conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que acessar seu perfil público.  
-#### Você pode optar por não exibir conquistas no seu perfil acessando as [configurações do perfil](https://github.com/settings).
+- [🔍 Exibindo Selos](#-exibindo-selos)
+- [🌟 Selos Básicos](#-selos-básicos)
+- [✨ Selos em Destaque](#✨-selos-em-destaque)
+- [🎨 Variações de Tom de Pele](#🎨-variações-de-tom-de-pele)
+- [🚫 Selos Descontinuados](#🚫-selos-descontinuados)
+- [ℹ️ Mais Informações](#ℹ️-mais-informações)
 
-# Lista de Conquistas
+---
 
-| Badge | Nome | Como obter | Quantidade necessária |
-| :-: | :-: | :-: | :-: |
-| ![Heart On Your Sleeve](Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png) | Heart On Your Sleeve | (???) | PADRÃO / BRONZE / PRATA / OURO |
-| ![Open Sourcerer](Badges/Open-Sourcerer/PNG/OpenSourcerer.png) | Open Sourcerer | (???) | PADRÃO / BRONZE / PRATA / OURO |
-| ![Starstruck](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png) | Starstruck | Criou um repositório que tem muitas estrelas | PADRÃO: 16 ✨ / BRONZE: 128 ✨ / PRATA: 512 ✨ / OURO: 4096 ✨ |
-| ![Quickdraw](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) | Quickdraw | Gitty up! (fechou uma issue ou pull request em até 5 min após abri-la) | PADRÃO: 1 |
-| ![Pair Extraordinaire](Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png) | Pair Extraordinaire | Commits coautores em pull request mesclada | PADRÃO: 1 / BRONZE: 10 / PRATA: 24 / OURO: 48 |
-| ![Pull Shark](Badges/Pull-Shark/PNG/PullShark.png) | Pull Shark | Abriu uma pull request que foi mesclada | PADRÃO: 2 / BRONZE: 16 / PRATA: 128 / OURO: 1024 |
-| ![Galaxy Brain](Badges/Galaxy-Brain/PNG/GalaxyBrain.png) | Galaxy Brain | Respondeu a uma discussão (recebeu uma resposta aceita) | PADRÃO: 2 / BRONZE: 8 / PRATA: 16 / OURO: 32 |
-| ![YOLO](Badges/YOLO/PNG/YOLO_Badge.png) | YOLO | Mesclou uma pull request sem review | PADRÃO: 1 |
-| ![Public Sponsor](Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png) | Public Sponsor | Patrocinou um contribuinte de código aberto via [GitHub Sponsors](https://github.com/sponsors) | PADRÃO: 1 |  
+## 🔍 Exibindo Selos
 
-# Tom de Pele das Conquistas
+Por padrão, todos os badges aparecem no seu perfil público.  
+Para esconder os selos, visite suas <a href="https://github.com/settings">Configurações de Perfil</a> e desative “Selos”.
 
-#### A aparência de algumas conquistas depende da sua preferência de tom de pele dos emojis.  
-#### Você pode alterar seu tom de pele preferido acessando as [configurações de aparência](https://github.com/settings/appearance).
+> 💡 <em>Dica:</em> Use seus badges como “cartão de visitas” para mostrar contribuições e engajamento!
 
-| Badge | Nome | Versões de Tom de Pele |
-| :-: | :-: | :-: |
-| ![Starstruck](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png) | Starstruck | ![Tone1](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png) ![Tone2](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png) ![Tone3](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png) ![Tone4](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png) ![Tone5](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png) ![Tone6](Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png) |
-| ![Quickdraw](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) | Quickdraw | ![Tone1](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png) ![Tone2](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png) ![Tone3](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png) ![Tone4](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png) ![Tone5](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png) ![Tone6](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png) |  
+---
 
-# ✨ Conquistas em Destaque ✨
+## 🌟 Selos Básicos
 
-| Badge | Nome | Como obter |
-| :-: | :-: | :-: |
-| ![pro-black](Highlights/GitHub-Pro/SVG/GitHub-Pro_DarkMode.svg#gh-light-mode-only) ![pro-white](Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only) | Pro | Use o [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg#gh-dark-mode-only) ![developer-program-member-light](Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_DarkMode.svg#gh-light-mode-only) | Developer Program Member | Seja um membro registrado do [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only) ![security-bug-bounty-hunter-light](Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_DarkMode.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Ajudou a caçar vulnerabilidades de segurança no [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only) ![github-campus-expert-light](Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participe do [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only) ![security-advisory-credit-light](Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_DarkMode.svg#gh-light-mode-only) | Security advisory credit | Tenha seu alerta de segurança enviado ao [GitHub Advisory Database](https://github.com/advisories) aceito |  
+| Badge                                                                                                         | Nome                                  | Como obter                                                                        | Quantidade necessária                                          |
+| :------------------------------------------------------------------------------------------------------------ | :------------------------------------ | :-------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| <img src="Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" width="64" alt="Heart on Your Sleeve"> | <strong>Heart on Your Sleeve</strong> | <em>detalhes ainda não documentados</em>                                          | Padrão / Bronze / Prata / Ouro                                 |
+| <img src="Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="64" alt="Open Sourcerer">                 | <strong>Open Sourcerer</strong>       | <em>detalhes ainda não documentados</em>                                          | Padrão / Bronze / Prata / Ouro                                 |
+| <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="64" alt="Starstruck">      | <strong>Starstruck</strong>           | <em>criou um repositório com muitas estrelas</em>                                 | Padrão: 16 ✨ / Bronze: 128 ✨ / Prata: 512 ✨ / Ouro: 4096 ✨ |
+| <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="64" alt="Quickdraw">         | <strong>Quickdraw</strong>            | <em>fechou uma issue ou PR em até 5 minutos</em>                                  | Padrão: 1                                                      |
+| <img src="Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="64" alt="Pair Extraordinaire">  | <strong>Pair Extraordinaire</strong>  | <em>commits de coautoria em PR mesclada</em>                                      | Padrão: 1 / Bronze: 10 / Prata: 24 / Ouro: 48                  |
+| <img src="Media/Badges/Pull-Shark/PNG/PullShark.png" width="64" alt="Pull Shark">                             | <strong>Pull Shark</strong>           | <em>abriu uma PR que foi mesclada</em>                                            | Padrão: 2 / Bronze: 16 / Prata: 128 / Ouro: 1024               |
+| <img src="Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="64" alt="Galaxy Brain">                       | <strong>Galaxy Brain</strong>         | <em>resposta aceita em discussão</em>                                             | Padrão: 2 / Bronze: 8 / Prata: 16 / Ouro: 32                   |
+| <img src="Media/Badges/YOLO/PNG/YOLO_Badge.png" width="64" alt="YOLO">                                        | <strong>YOLO</strong>                 | <em>mesclou PR sem revisão</em>                                                   | Padrão: 1                                                      |
+| <img src="Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="64" alt="Public Sponsor">            | <strong>Public Sponsor</strong>       | <em>patrocinar via <a href="https://github.com/sponsors">GitHub Sponsors</a></em> | Padrão: 1                                                      |
 
-# ❌ Conquistas não mais obtíveis ❌
+---
 
-| Badge | Nome | Como obter | Quantidade necessária |
-| :-: | :-: | :-: | :-: |
-| ![Mars 2020 Contributor](Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png) | Mars 2020 Contributor | Contribuiu com código para um repositório usado na [Missão do Helicóptero Marte 2020](https://github.com/readme/featured/nasa-ingenuity-helicopter) | PADRÃO: 1 |
-| ![Arctic Code Vault Contributor](Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png) | Arctic Code Vault Contributor | Contribuiu com código para um repositório no [Programa de Arquivo do GitHub 2020](https://archiveprogram.github.com/) | PADRÃO: 1 |  
+## ✨ Selos em Destaque
 
-# ℹ️ Mais informações ℹ️
+| Badge                                                                                                                                                              | Nome                                        | Como obter                                                                                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only" width="72" alt="Pro">                                                        | <strong>Pro</strong>                        | <em>assinar <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro">GitHub Pro</a></em>    |
+| <img src="Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg#gh-dark-mode-only" width="72" alt="Developer Program Member">         | <strong>Developer Program Member</strong>   | <em>ser membro do <a href="https://docs.github.com/en/developers/overview/github-developer-program">GitHub Developer Program</a></em> |
+| <img src="Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only" width="72" alt="Security Bug Bounty Hunter"> | <strong>Security Bug Bounty Hunter</strong> | <em>ajudar a encontrar vulnerabilidades no <a href="https://bounty.github.com/">GitHub Security</a></em>                              |
+| <img src="Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only" width="72" alt="Campus Expert">                          | <strong>Campus Expert</strong>              | <em>participar do <a href="https://education.github.com/experts">GitHub Campus Program</a></em>                                       |
+| <img src="Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only" width="72" alt="Advisory Credit">                | <strong>Advisory Credit</strong>            | <em>ter advisory aceito no <a href="https://github.com/advisories">GitHub Advisory Database</a></em>                                  |
 
-#### Você pode encontrar mais informações sobre as Conquistas do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+---
 
-####  
-![Image](Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)
+## 🎨 Variações de Tom de Pele
+
+| Badge                                                                                                    | Nome                        | Variantes         |
+| :------------------------------------------------------------------------------------------------------- | :-------------------------- | :---------------- |
+| <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="64" alt="Starstruck"> | <strong>Starstruck</strong> | 👋 👋🏻 👋🏼 👋🏽 👋🏾 👋🏿 |
+| <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="64" alt="Quickdraw">    | <strong>Quickdraw</strong>  | 👋 👋🏻 👋🏼 👋🏽 👋🏾 👋🏿 |
+
+---
+
+## 🚫 Selos Descontinuados
+
+| Badge                                                                                                                                       | Nome                                           | Como obter                                                                                                         | Quantidade necessária |
+| :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :-------------------- |
+| <img src="Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" width="64" alt="Mars 2020 Contributor">                      | <strong>Mars 2020 Contributor</strong>         | <em>contribuiu na <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Missão Mars 2020</a></em> | Padrão: 1             |
+| <img src="Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="64" alt="Arctic Code Vault Contributor"> | <strong>Arctic Code Vault Contributor</strong> | <em>contribuiu no <a href="https://archiveprogram.github.com/">Programa de Arquivo 2020</a></em>                   | Padrão: 1             |
+
+---
+
+## ℹ️ Mais Informações
+
+Para detalhes completos e personalização de perfil, visite:  
+🔗 <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile">GitHub Docs – Exibindo badges no perfil</a>
+
+---
+
+<p align="center">
+  Seja um <strong>Badge Master</strong> e mostre ao mundo suas conquistas! 🚀
+</p>
