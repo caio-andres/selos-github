@@ -47,6 +47,13 @@ Para esconder os selos, visite suas <a href="https://github.com/settings">Config
 | <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="64" alt="Starstruck"> | <strong>Starstruck</strong> | <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="64" alt="Tom 1"> <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="64" alt="Tom 2"> <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="64" alt="Tom 3"> <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="64" alt="Tom 4"> <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="64" alt="Tom 5"> <img src="Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="64" alt="Tom 6"> |
 | <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="64" alt="Quickdraw">    | <strong>Quickdraw</strong>  | <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="64" alt="Tom 1"> <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="64" alt="Tom 2"> <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png" width="64" alt="Tom 3"> <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png" width="64" alt="Tom 4"> <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png" width="64" alt="Tom 5"> <img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png" width="64" alt="Tom 6">             |
 
+> ❓ **Como alterar o tom de pele dos selos**
+>
+> 1. Clique na sua foto de perfil (canto superior direito) e escolha **Settings**.
+> 2. No menu lateral, acesse **Appearance**.
+> 3. Em **Emoji skin tone**, selecione o tom desejado.
+> 4. Pronto! Qualquer selo que use 👋 mudará automaticamente para o tom escolhido.
+
 ---
 
 ## 🚫 Selos Descontinuados
